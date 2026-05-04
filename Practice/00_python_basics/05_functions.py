@@ -1,3 +1,24 @@
+<<<<<<< HEAD
+import random
+
+def max_min(numbers):
+    minimum = numbers[0]
+    for num in numbers:
+        if num <minimum:
+            minimum = num
+            print(f" {minimum}")
+    return minimum   
+    
+    
+    
+def getValues():
+    list = random.sample(range(50, 100), 10)
+    print(list)
+    result=max_min(list)
+    print(f"Minimum value is {result}")
+    
+getValues()
+=======
 # functions
 
 def basic_function():
@@ -111,3 +132,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+>>>>>>> fb5a58a3c1f8852c1fc842a042573532d9a04ecd
