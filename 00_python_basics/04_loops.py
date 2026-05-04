@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-print("Using range ")
-#for i in range(2, 18, 2):
-#    print(i)  
-    
-for i in range(18):   
-    if i == 18:
-        print(i)
-        
-        
-#print("Using for loop")
-#items = [1,2,3,4,5,6,7,8,9]
-#for item in items:
-#    print(item)
-    
-=======
 # loops
 
 def for_loop_basic():
@@ -161,4 +145,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> fb5a58a3c1f8852c1fc842a042573532d9a04ecd

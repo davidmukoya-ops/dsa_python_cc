@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-import random
-list = random.sample(range(50, 100), 10)
-print(list)
-=======
 # basic list operations in Python
 
 def create_list():
@@ -123,4 +118,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> fb5a58a3c1f8852c1fc842a042573532d9a04ecd
